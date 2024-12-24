@@ -1,5 +1,5 @@
 # ML Exercise
-MNIST Classifier and visualizations
+MNIST Classifier and visualizations exercise.
 
 ## Description
 
